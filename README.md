@@ -2,6 +2,10 @@
 
 #### This application uses a weather API to fetch information based on the user input.
 
+<p align="left">
+  <img src="http://www.dcoss.org/dcoss12/resources/usc.jpg" width="200">
+ </p>
+
 
 ## _______________________________________________________________________________________
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
